@@ -74,3 +74,17 @@ function eventsToItem(item) {
         item.remove();
     });
 }
+const btnStyle = document.getElementById('change-styles')
+btnStyle.addEventListener('click', () => {
+    const linkCss = document.getElementById('enlace-estilos')
+
+
+    if (linkCss.getAttribute('href') == 'css/style.css') {
+        linkCss.setAttribute('href', 'css/style-noche.css')
+
+        btnStyle.textContent = 'Modo Dia'
+    } else {
+        linkCss.setAttribute('href', 'css/style.css')
+        btnStyle.textContent = 'Modo Dia'
+    }
+})
