@@ -3,7 +3,7 @@
 Un proyecto sencillo de **lista de tareas (To Do List)** desarrollado con **HTML, CSS y JavaScript puro**.  
 Permite **agregar, completar y eliminar tareas** de manera interactiva manipulando el DOM.
 
-👉 [Ver demo en GitHub Pages](https://schdev-spn.github.io/To-Do-List---Js/)) <!-- Cambia la URL -->
+👉 [Ver demo en GitHub Pages](https://schdev-spn.github.io/To-Do-List---Js/)
 
 ---
 
